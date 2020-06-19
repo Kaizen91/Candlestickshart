@@ -6,5 +6,5 @@ bokeh
 pandas_datareader
 
 Instructions:
-1.Run the code cells in the accompanying jupyter notebook
+1.Run the code cells in the accompanying jupyter notebook (or just run candleStick.py)
 2.A candlestick chart of Apples' stock price should appear showing data from the first two quarters of 2020.
