@@ -24,7 +24,7 @@ df["Height"] = abs(df.Close - df.Open)
 
 
 p = figure(x_axis_type='datetime',width=1000,height=300,sizing_mode="scale_width")
-p.title.text="Candlestick Chart"
+p.title.text="AAPL Candlestick Chart"
 p.grid.grid_line_alpha=0.2
 
 hours_12 = 12 * 60 * 60 * 1000
